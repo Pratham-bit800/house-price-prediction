@@ -73,16 +73,6 @@ The models are evaluated using:
 - Root Mean Squared Error (RMSE)
 - R² Score
 
-## Project Structure
-
-```
-House-Price-Prediction/
-│
-├── House_Price_Prediction.ipynb
-├── README.md
-└── dataset.csv
-```
-
 ## Future Improvements
 
 - Hyperparameter Tuning
